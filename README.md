@@ -1,4 +1,12 @@
 # Snapchat Scraper 
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/License-GPL--3.0-blue)
+![Repo Size](https://img.shields.io/github/repo-size/m9ebah/Snapchat-Scraper)
+![Open Issues](https://img.shields.io/github/issues/m9ebah/Snapchat-Scraper)
+![GitHub stars](https://img.shields.io/github/stars/m9ebah/Snapchat-Scraper?style=social)
+
+
+
 
 📸 **Project Description | وصف المشروع:**  
  
