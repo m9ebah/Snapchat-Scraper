@@ -1,4 +1,4 @@
-# Snapchat-Scraper | مستخرج قصص سناب شات
+# Snapchat Scraper 
 
 📸 **Project Description | وصف المشروع:**  
  
