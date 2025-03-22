@@ -14,7 +14,7 @@
  Snapchat-Scraper is a Python-based tool designed to fetch and display public Snapchat stories. The tool allows users to retrieve media content (images and videos) along with timestamps from publicly available Snapchat stories, without affecting privacy or accessing private stories.
 سناب شات سكرابر هو أداة مبنية بلغة بايثون مصممة لجلب وعرض القصص العامة في سناب شات. تتيح الأداة للمستخدمين استرجاع محتوى الوسائط (صور وفيديوهات) مع التاريخ الزمني من الستوريات العامة المتاحة على سناب شات فقط، دون التأثير على الخصوصية أو الوصول إلى القصص الخاصة.  
 ---  
----
+
 
 ## 🚀 **Installation Steps | خطوات التثبيت:**
 
